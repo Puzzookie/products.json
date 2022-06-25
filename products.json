@@ -2,254 +2,47 @@
   {
     "Name": "Terra Cotta Paw Impression",
     "Details": "Clay impression of your pet’s paw with their name",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
-    "Price": 85.00
-  },
-  {
-    "Name": "Terra Cotta Paw Impression",
-    "Details": "Double paw impressions on same circle piece",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
-    "Price": 95.00
+    "Image": "https://skcrane.files.wordpress.com/2020/03/terra-cotta-paw-print.png"
   },
   {
     "Name": "Ceramic Paw Impression",
     "Details": "Impression of your pet’s paw with their name and finish it with the glaze and firing process",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
-    "Price": 85.00
+    "Image": "https://skcrane.files.wordpress.com/2020/03/ceramic-pawprint.png"
   },
   {
-    "Name": "Ceramic Paw Impression",
-    "Details": "Double paw impressions on same circle piece",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
-    "Price": 95.00
+    "Name": "Hinged Cedar Urn",
+    "Details": "Cedar Urn",
+    "Image": "https://skcrane.files.wordpress.com/2019/11/21-32-lbs.-27.63-cedar-urn-bigger-background-1.png"
   },
   {
-    "Name": "Hinged Cedar Urn with Engraving",
-    "Details": "0-20 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 71.38
-  },
-  {
-    "Name": "Hinged Cedar Urn with Engraving",
-    "Details": "21-32 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 77.23
-  },
-  {
-    "Name": "Hinged Cedar Urn with Engraving",
-    "Details": "33-85 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 79.15
-  },
-  {
-    "Name": "Hinged Cedar Urn with Engraving",
-    "Details": "86-90 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 83.20
-  },
-  {
-    "Name": "Hinged Cedar Urn with Engraving",
-    "Details": "91-105 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 96.35
-  },
-  {
-    "Name": "Hinged Cedar Urn without Engraving",
-    "Details": "0-20 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 46.38
-  },
-  {
-    "Name": "Hinged Cedar Urn without Engraving",
-    "Details": "21-32 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 52.23
-  },
-  {
-    "Name": "Hinged Cedar Urn without Engraving",
-    "Details": "33-85 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 54.15
-  },
-  {
-    "Name": "Hinged Cedar Urn without Engraving",
-    "Details": "86-90 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 58.20
-  },
-  {
-    "Name": "Hinged Cedar Urn without Engraving",
-    "Details": "91-105 lbs. Cedar Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 71.35
-  },
-  {
-    "Name": "Hinged Pine Box Urn with Engraving",
-    "Details": "0-20 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 56.88
-  },
-  {
-    "Name": "Hinged Pine Box Urn with Engraving",
-    "Details": "21-32 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 57.25
-  },
-  {
-    "Name": "Hinged Pine Box Urn with Engraving",
-    "Details": "33-56 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 58.38
-  },
-  {
-    "Name": "Hinged Pine Box Urn with Engraving",
-    "Details": "57-112 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 59.42
-  },
-  {
-    "Name": "Hinged Pine Box Urn with Engraving",
-    "Details": "113-132 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 63.25
-  },
-  {
-    "Name": "Hinged Pine Box Urn without Engraving",
-    "Details": "0-20 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 31.88
-  },
-  {
-    "Name": "Hinged Pine Box Urn without Engraving",
-    "Details": "21-32 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 32.25
-  },
-  {
-    "Name": "Hinged Pine Box Urn without Engraving",
-    "Details": "33-56 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 33.38
-  },
-  {
-    "Name": "Hinged Pine Box Urn without Engraving",
-    "Details": "57-112 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 34.42
-  },
-  {
-    "Name": "Hinged Pine Box Urn without Engraving",
-    "Details": "113-132 lbs. Pine Box Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
-    "Price": 38.25
+    "Name": "Hinged Pine Box Urn",
+    "Details": "Pine Box Urn",
+    "Image": "https://skcrane.files.wordpress.com/2019/11/dangle-box-closeup.png"
   },
   {
     "Name": "Peartree Paw-Print Kit with Impression",
     "Details": "Kit with labor of taking impression",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/saimiri.jpg",
-    "Price": 50.00
+    "Image": "https://skcrane.files.wordpress.com/2019/11/impression_01_srgb.jpg"
   },
   {
-    "Name": "Oak Urn with Engraved Plate",
-    "Details": "0-12 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 70.44
-  },
-  {
-    "Name": "Oak Urn with Engraved Plate",
-    "Details": "13-28 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 71.94
-  },
-  {
-    "Name": "Oak Urn with Engraved Plate",
-    "Details": "29-68 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 76.44
-  },
-  {
-    "Name": "Oak Urn with Engraved Plate",
-    "Details": "69-95 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 80.94
-  },
-  {
-    "Name": "Oak Urn with Engraved Plate",
-    "Details": "96-125 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 85.44
-  },
-  {
-    "Name": "Oak Urn without Engraved Plate",
-    "Details": "0-12 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 62.94
-  },
-  {
-    "Name": "Oak Urn without Engraved Plate",
-    "Details": "13-28 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 64.44
-  },
-  {
-    "Name": "Oak Urn without Engraved Plate",
-    "Details": "29-68 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 68.94
-  },
-  {
-    "Name": "Oak Urn without Engraved Plate",
-    "Details": "69-95 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 73.44
-  },
-  {
-    "Name": "Oak Urn without Engraved Plate",
-    "Details": "96-125 lbs. Oak Urn",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/tamarin.jpg",
-    "Price": 77.94
+    "Name": "Oak Urn",
+    "Details": "Oak Urn",
+    "Image": "https://skcrane.files.wordpress.com/2019/11/so150.jpg"
   },
   {
     "Name": "Garden Pet Urn",
     "Details": "Each urn weighs 6 lbs 7 oz, and is 13in.w x 10in.h x 4in.d",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/alouatta.jpg",
-    "Price": 146.50
+    "Image": "https://skcrane.files.wordpress.com/2019/11/9i3a2048.jpg"
   },
   {
     "Name": "Shadow Box and Picture Insert Urn",
     "Details": "4x6in",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
-    "Price": 88.94
-  },
-  {
-    "Name": "Shadow Box and Picture Insert Urn",
-    "Details": "5x7in",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
-    "Price": 96.44
-  },
-  {
-    "Name": "Shadow Box and Picture Insert Urn",
-    "Details": "8x10in",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
-    "Price": 111.44
-  },
-  {
-    "Name": "Shadow Box and Picture Insert Urn",
-    "Details": "11x14in",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/macasa.jpg",
-    "Price": 126.44
-  },
-  {
-    "Name": "Integrity Earthurns",
-    "Details": "Floral",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/mandrill.jpg",
-    "Price": 20.45
+    "Image": "https://skcrane.files.wordpress.com/2019/11/8x10-memory-mahogany-landscape.jpg"
   },
   {
     "Name": "Integrity Earthurns",
     "Details": "Natural",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/mandrill.jpg",
-    "Price": 20.45
+    "Image": "https://skcrane.files.wordpress.com/2019/11/integrity_hero-link.jpg"
   }
 
 ]
