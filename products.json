@@ -23,7 +23,6 @@
         "Price": 85.00,
         "ItemName": "Single Paw Impression with Pet Name",
         "Options": [
-          {
             "Bright Straw",
              "Bright Saffron",
              "Bright Tangerine",
@@ -54,7 +53,6 @@
              "Ivory",
              "Neon Red",
              "Neon Orange"
-          }
         ]
       },
       {
