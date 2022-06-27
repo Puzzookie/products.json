@@ -6,22 +6,12 @@
       {
         "Price": 85.00,
         "ItemName": "Single Paw Impression with Pet Name",
-        "Options": [
-          {
-            "Option0": "White",
-            "Option1": "Red"
-          }
-        ]
+        "Options": [ "White", "Red" ]
       },
       {
         "Price": 95.00,
         "ItemName": "Double Paw Impression",
-        "Options": [
-          {
-            "Option0": "White",
-            "Option1": "Red"
-          }
-        ]
+        "Options": [ "White", "Red" ]
       }
     ]
   },
@@ -34,36 +24,36 @@
         "ItemName": "Single Paw Impression with Pet Name",
         "Options": [
           {
-            "Option0": "Bright Straw",
-            "Option1": "Bright Saffron",
-            "Option2": "Bright Tangerine",
-            "Option3": "Really Red",
-            "Option4": "Light Wine",
-            "Option5": "Bright Delft",
-            "Option6": "Dark Delft",
-            "Option7": "Light Aqua",
-            "Option8": "Bright Aqua",
-            "Option9": "Light Blue Spruce",
-            "Option10": "Bright Kiwi",
-            "Option11": "Light Grey",
-            "Option12": "Bright Grey",
-            "Option13": "Light Blush",
-            "Option14": "Bright Briarwood",
-            "Option15": "Really White",
-            "Option16": "Dark Black",
-            "Option17": "Light Grape",
-            "Option18": "Bright Purple",
-            "Option19": "Dark Purple",
-            "Option20": "Bright Caribbean",
-            "Option21": "Dark Ginger",
-            "Option22": "Dark Pink",
-            "Option23": "Neon Yellow",
-            "Option24": "Neon Blue",
-            "Option25": "Neon Green",
-            "Option26": "Light Kiwi",
-            "Option27": "Ivory",
-            "Option28": "Neon Red",
-            "Option29": "Neon Orange"
+            "Bright Straw",
+             "Bright Saffron",
+             "Bright Tangerine",
+             "Really Red",
+             "Light Wine",
+             "Bright Delft",
+             "Dark Delft",
+             "Light Aqua",
+             "Bright Aqua",
+             "Light Blue Spruce",
+             "Bright Kiwi",
+             "Light Grey",
+             "Bright Grey",
+             "Light Blush",
+             "Bright Briarwood",
+             "Really White",
+             "Dark Black",
+             "Light Grape",
+             "Bright Purple",
+             "Dark Purple",
+             "Bright Caribbean",
+             "Dark Ginger",
+             "Dark Pink",
+             "Neon Yellow",
+             "Neon Blue",
+             "Neon Green",
+             "Light Kiwi",
+             "Ivory",
+             "Neon Red",
+             "Neon Orange"
           }
         ]
       },
@@ -71,38 +61,36 @@
         "Price": 95.00,
         "ItemName": "Double Paw Impression",
         "Options": [
-          {
-            "Option0": "Bright Straw",
-            "Option1": "Bright Saffron",
-            "Option2": "Bright Tangerine",
-            "Option3": "Really Red",
-            "Option4": "Light Wine",
-            "Option5": "Bright Delft",
-            "Option6": "Dark Delft",
-            "Option7": "Light Aqua",
-            "Option8": "Bright Aqua",
-            "Option9": "Light Blue Spruce",
-            "Option10": "Bright Kiwi",
-            "Option11": "Light Grey",
-            "Option12": "Bright Grey",
-            "Option13": "Light Blush",
-            "Option14": "Bright Briarwood",
-            "Option15": "Really White",
-            "Option16": "Dark Black",
-            "Option17": "Light Grape",
-            "Option18": "Bright Purple",
-            "Option19": "Dark Purple",
-            "Option20": "Bright Caribbean",
-            "Option21": "Dark Ginger",
-            "Option22": "Dark Pink",
-            "Option23": "Neon Yellow",
-            "Option24": "Neon Blue",
-            "Option25": "Neon Green",
-            "Option26": "Light Kiwi",
-            "Option27": "Ivory",
-            "Option28": "Neon Red",
-            "Option29": "Neon Orange"
-          }
+             "Bright Straw",
+             "Bright Saffron",
+             "Bright Tangerine",
+             "Really Red",
+             "Light Wine",
+             "Bright Delft",
+             "Dark Delft",
+             "Light Aqua",
+             "Bright Aqua",
+             "Light Blue Spruce",
+             "Bright Kiwi",
+             "Light Grey",
+             "Bright Grey",
+             "Light Blush",
+             "Bright Briarwood",
+             "Really White",
+             "Dark Black",
+             "Light Grape",
+             "Bright Purple",
+             "Dark Purple",
+             "Bright Caribbean",
+             "Dark Ginger",
+             "Dark Pink",
+             "Neon Yellow",
+             "Neon Blue",
+             "Neon Green",
+             "Light Kiwi",
+             "Ivory",
+             "Neon Red",
+             "Neon Orange"
         ]
       }
     ]
@@ -115,50 +103,40 @@
         "Price": 71.38,
         "ItemName": "0-20 lbs. Cedar Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 77.23,
         "ItemName": "21-32 lbs. Cedar Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 79.15,
         "ItemName": "33-85 lbs. Cedar Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 83.20,
         "ItemName": "86-90 lbs. Cedar Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 96.35,
         "ItemName": "91-105 lbs. Cedar Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       }
     ]
@@ -171,50 +149,40 @@
         "Price": 56.88,
         "ItemName": "0-20 lbs. Pine Box",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 57.25,
         "ItemName": "21-32 lbs. Pine Box",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 58.38,
         "ItemName": "33-56 lbs. Pine Box",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 59.42,
         "ItemName": "57-112 lbs. Pine Box",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 63.25,
         "ItemName": "113-132 lbs. Pine Box",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       }
     ]
@@ -237,50 +205,40 @@
         "Price": 70.44,
         "ItemName": "0-12 lbs. Oak Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 71.94,
         "ItemName": "13-28 lbs. Oak Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 76.44,
         "ItemName": "29-68 lbs. Oak Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 80.94,
         "ItemName": "69-95 lbs. Oak Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 85.44,
         "ItemName": "96-125 lbs. Oak Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       }
     ]
@@ -293,50 +251,40 @@
         "Price": 70.44,
         "ItemName": "0-12 lbs. Walnut Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 71.94,
         "ItemName": "13-28 lbs. Walnut Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 76.44,
         "ItemName": "29-68 lbs. Walnut Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       },
       {
         "Price": 80.94,
         "ItemName": "69-95 lbs. Walnut Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+          "With Engraving",
+          "Without Engraving"
         ]
       },
       {
         "Price": 85.44,
         "ItemName": "96-125 lbs. Walnut Urn",
         "Options": [
-          {
-            "Option0": "With Engraving",
-            "Option1": "Without Engraving"
-          }
+             "With Engraving",
+             "Without Engraving"
         ]
       }
     ]
@@ -359,96 +307,88 @@
         "Price": 88.94,
         "ItemName": "4x6in",
         "Options": [
-          {
-            "Option0": "Landscape Cherry",
-            "Option1": "Landscape Rosewood",
-            "Option2": "Landscape Walnut",
-            "Option3": "Landscape Black",
-            "Option4": "Landscape White",
-            "Option5": "Landscape Mahogany",
-            "Option6": "Landscape Oak",
-            "Option7": "Landscape Maple",
-            "Option8": "Portrait Cherry",
-            "Option9": "Portrait Rosewood",
-            "Option10": "Portrait Walnut",
-            "Option11": "Portrait Black",
-            "Option12": "Portrait White",
-            "Option13": "Portrait Mahogany",
-            "Option14": "Portrait Oak",
-            "Option15": "Portrait Maple"
-          }
+          "Landscape Cherry",
+          "Landscape Rosewood",
+          "Landscape Walnut",
+          "Landscape Black",
+          "Landscape White",
+          "Landscape Mahogany",
+          "Landscape Oak",
+          "Landscape Maple",
+          "Portrait Cherry",
+          "Portrait Rosewood",
+          "Portrait Walnut",
+          "Portrait Black",
+          "Portrait White",
+          "Portrait Mahogany",
+          "Portrait Oak",
+          "Portrait Maple"
         ]
       },
       {
         "Price": 96.44,
         "ItemName": "5x7in",
         "Options": [
-          {
-            "Option0": "Landscape Cherry",
-            "Option1": "Landscape Rosewood",
-            "Option2": "Landscape Walnut",
-            "Option3": "Landscape Black",
-            "Option4": "Landscape White",
-            "Option5": "Landscape Mahogany",
-            "Option6": "Landscape Oak",
-            "Option7": "Landscape Maple",
-            "Option8": "Portrait Cherry",
-            "Option9": "Portrait Rosewood",
-            "Option10": "Portrait Walnut",
-            "Option11": "Portrait Black",
-            "Option12": "Portrait White",
-            "Option13": "Portrait Mahogany",
-            "Option14": "Portrait Oak",
-            "Option15": "Portrait Maple"
-          }
+             "Landscape Cherry",
+             "Landscape Rosewood",
+             "Landscape Walnut",
+             "Landscape Black",
+             "Landscape White",
+             "Landscape Mahogany",
+             "Landscape Oak",
+             "Landscape Maple",
+             "Portrait Cherry",
+             "Portrait Rosewood",
+             "Portrait Walnut",
+             "Portrait Black",
+             "Portrait White",
+             "Portrait Mahogany",
+             "Portrait Oak",
+             "Portrait Maple"
         ]
       },
       {
         "Price": 111.44,
         "ItemName": "8x10in",
         "Options": [
-          {
-            "Option0": "Landscape Cherry",
-            "Option1": "Landscape Rosewood",
-            "Option2": "Landscape Walnut",
-            "Option3": "Landscape Black",
-            "Option4": "Landscape White",
-            "Option5": "Landscape Mahogany",
-            "Option6": "Landscape Oak",
-            "Option7": "Landscape Maple",
-            "Option8": "Portrait Cherry",
-            "Option9": "Portrait Rosewood",
-            "Option10": "Portrait Walnut",
-            "Option11": "Portrait Black",
-            "Option12": "Portrait White",
-            "Option13": "Portrait Mahogany",
-            "Option14": "Portrait Oak",
-            "Option15": "Portrait Maple"
-          }
+             "Landscape Cherry",
+             "Landscape Rosewood",
+             "Landscape Walnut",
+             "Landscape Black",
+             "Landscape White",
+             "Landscape Mahogany",
+             "Landscape Oak",
+             "Landscape Maple",
+             "Portrait Cherry",
+             "Portrait Rosewood",
+             "Portrait Walnut",
+             "Portrait Black",
+             "Portrait White",
+             "Portrait Mahogany",
+             "Portrait Oak",
+             "Portrait Maple"
         ]
       },
       {
         "Price": 126.44,
         "ItemName": "11x14in",
         "Options": [
-          {
-            "Option0": "Landscape Cherry",
-            "Option1": "Landscape Rosewood",
-            "Option2": "Landscape Walnut",
-            "Option3": "Landscape Black",
-            "Option4": "Landscape White",
-            "Option5": "Landscape Mahogany",
-            "Option6": "Landscape Oak",
-            "Option7": "Landscape Maple",
-            "Option8": "Portrait Cherry",
-            "Option9": "Portrait Rosewood",
-            "Option10": "Portrait Walnut",
-            "Option11": "Portrait Black",
-            "Option12": "Portrait White",
-            "Option13": "Portrait Mahogany",
-            "Option14": "Portrait Oak",
-            "Option15": "Portrait Maple"
-          }
+             "Landscape Cherry",
+             "Landscape Rosewood",
+             "Landscape Walnut",
+             "Landscape Black",
+             "Landscape White",
+             "Landscape Mahogany",
+             "Landscape Oak",
+             "Landscape Maple",
+             "Portrait Cherry",
+             "Portrait Rosewood",
+             "Portrait Walnut",
+             "Portrait Black",
+             "Portrait White",
+             "Portrait Mahogany",
+             "Portrait Oak",
+             "Portrait Maple"
         ]
       }
     ]
